@@ -8,7 +8,6 @@ from urllib.parse import urlparse
 import requests
 
 # ardalan.dsht@gmail.com
-# noronmind@protonmail.com
 
 # This blockchain is for educational purposes only.
 # The chain is a python list and the blocks are stored as json.
